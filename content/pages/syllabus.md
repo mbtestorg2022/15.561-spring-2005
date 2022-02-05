@@ -24,11 +24,48 @@ The course material includes all the required readings (articles) to be covered 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Three Problem Sets | 40% |
-| Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 We view this course as a cooperative learning experience and expect students to engage the topics provided as an opportunity to gain hands-on experience with some of the tools and technologies covered. They include (a) creating a personal home page, (b) working with a Microsoft® Access database and (c) constructing a web-based survey form that collects in a database information provided by people who fill out the survey on-line. **All assignments are to be received by the TA before class on the due date**.
 
