@@ -5,6 +5,7 @@ description: This file contains information about major IT applications in busin
   (CRM) systems, supply chain management (SCM) systems, and various other examples.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-561-information-technology-essentials-spring-2005/d7b0b42fc6b0e6d82f266a3db06ef75a_lecture13.pdf
 file_type: application/pdf
+parent_uid: 162f5ef5-0118-dd0f-5531-71f9f27f4dd2
 resourcetype: Document
 title: lecture13.pdf
 uid: d7b0b42f-c6b0-e6d8-2f26-6a3db06ef75a
